@@ -408,9 +408,9 @@ ul {
 .slider-tile-scale {
   height: 100%;
   /* IE 9 */
-  -webkit-transform: scale(1.1, 4);
+  -webkit-transform: scale(1.15, 4);
   /* Safari */
-  transform: scale(1.1, 4);
+  transform: scale(1.15, 4);
   /* Standard syntax */
 }
 /*# sourceMappingURL=main.css.map */
